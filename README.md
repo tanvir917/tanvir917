@@ -25,7 +25,7 @@ Dedicated software engineer with a proven track record in remote roles, seeking 
 ### Melbourne Institute of Technology - Assistant Programmer (Trainee)
 - **July 2023 - Present**
 - **Location:** 288 La Trobe St, Melbourne, VIC-3000 (Onsite)
-- **Skills:** C#, ASP.NET MVC, NHibernate, T-SQL
+- **Skills:** C#, ASP.NET MVC, EF Core, NHibernate, T-SQL
 
 ### AlgoSolver LLC. - Software Engineer
 - **July 2021 - June 2023**
