@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 
 <!--
 **tanvir917/tanvir917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,6 @@ Dedicated software engineer with a proven track record in remote roles, seeking 
 - **July 2023 - Present**
 - **Location:** 288 La Trobe St, Melbourne, VIC-3000 (Onsite)
 - **Skills:** C#, ASP.NET MVC, NHibernate, T-SQL
-
-### Melbourne Institute of Technology - Peer Mentor
-- **August 2023 - Present**
 
 ### AlgoSolver LLC. - Software Engineer
 - **July 2021 - June 2023**
