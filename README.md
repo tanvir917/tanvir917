@@ -16,18 +16,6 @@ Here are some ideas to get you started:
 -->
 # Tanvir Islam
 
-- **Location:** 70 Oakpark Drive, Harkness, VIC-3337, AU
-- **Email:** mdtanvirislams@gmail.com
-- **Phone:** +61 416 615 147
-- **GitHub:** [tanvir917](https://github.com/tanvir917)
-- **GitLab:** [tanvir917](https://gitlab.com/tanvir917)
-- **LinkedIn:** [tanvir917](https://www.linkedin.com/in/tanvir917)
-- **Kaggle:** [tanvir917](https://www.kaggle.com/tanvir917)
-
----
-
-## Objective
-
 Dedicated software engineer with a proven track record in remote roles, seeking to apply my versatile skills in building cross-platform applications, APIs, and web solutions to contribute to a dynamic and innovative company. Eager to leverage my adaptability, enthusiasm, and problem-solving abilities to drive excellence and growth in a collaborative team environment.
 
 ---
