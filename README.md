@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 # Tanvir Islam
 
-![Profile Picture](profile_picture.jpg)
-
 - **Location:** 70 Oakpark Drive, Harkness, VIC-3337, AU
 - **Email:** mdtanvirislams@gmail.com
 - **Phone:** +61 416 615 147
