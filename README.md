@@ -89,7 +89,6 @@ Dedicated software engineer with a proven track record in remote roles, seeking 
 - **Bachelor of Science in Computer Science & Engineering(CSE)**
   - Ahsanullah University of Science & Technology, Dhaka, Bangladesh
   - Passing Year: 2021
-  - CGPA: 3.36 out of 4.00
 
 ---
 
@@ -118,7 +117,7 @@ RDBMS: MySql, Oracle, T-Sql
 NoSql: Firebase, MongoDB
 
 ### Version Control
-Git
+Git, SVN
 
 ### Other Skills
 Jira
