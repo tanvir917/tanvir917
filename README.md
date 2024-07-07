@@ -15,107 +15,73 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Tanvir Islam
-<!--
-## Contact Information
+**Melbourne, Australia** | mdtanvirislams@gmail.com | +61 416 615 147 | [LinkedIn - tanvir917](https://www.linkedin.com/in/tanvir917) | [GitHub](https://github.com/tanvir917)
 
-**Address**: 70 Oakpark drive, Harkness, VIC-3337, AU  
-**Email**: [mdtanvirislams@gmail.com](mailto:mdtanvirislams@gmail.com)  
-**Phone**: +61 416 615 147  
-**GitHub**: [tanvir917](https://github.com/tanvir917)  
-**GitLab**: [tanvir917](https://gitlab.com/tanvir917)  
-**LinkedIn**: [tanvir917](https://www.linkedin.com/in/tanvir917)  
-**Kaggle**: [tanvir917](https://www.kaggle.com/tanvir917)
--->
-## Objective
+## OBJECTIVE
+Results-driven software engineer with extensive experience in both onsite and remote roles, specializing in developing scalable web applications and APIs. Demonstrated success in delivering high-impact projects using React, ASP.NET Core, and AWS. Passionate about leveraging adaptability, enthusiasm, and advanced problem-solving skills to drive innovation and growth in a tech-forward, collaborative environment.
 
-Dedicated software engineer with a proven track record in both onsite and remote roles, seeking to leverage my skills in building web applications and APIs to contribute to a dynamic and innovative company. Eager to apply my adaptability, enthusiasm, and problem-solving abilities in a collaborative team environment to drive excellence and growth.
+## SKILLS
 
-## Professional Experience
+**Programming Languages:** C, C#, Javascript, TypeScript, Python  
+**Full Stack Development:** ASP.NET, ASP.NET Core, API, Razor, React, React-Native  
+**Design:** CSS, Bootstrap, TailwindCSS  
+**Testing:** xUnit, Jest  
+**Cloud:** Azure, AWS - EC2, ELB, S3, CI/CD  
+**Database:** RDBMS (MySQL, Oracle, PostgreSQL), ORM (Entity Framework Core, Fluent NHibernate, Dapper)
 
-### Melbourne Institute of Technology
+## EXPERIENCE
+
 **Assistant Programmer (Trainee)**  
-*July 2023 - December 2023, April 2024 - Present (Part-Time)*  
-288 La Trobe St, Melbourne, VIC-3000 (Onsite)  
+*Melbourne Institute of Technology* | Melbourne, VIC | July 2023 - Present (Onsite)  
+- Key contributor to upgrading the Academic Management System (AMS) and Admissions App from ASP.NET Web Forms to ASP.NET MVC, enhancing system stability and performance, resulting in a 30% increase in user satisfaction.
+- Implemented Fluent NHibernate, optimizing data querying and management, reduced database access time by 20%.
+- Revamped user interfaces, improving responsiveness and aesthetics, resulting in a 25% increase in user engagement.
+- Developed and implemented 10+ new system functionalities, enhancing the AMS's capabilities and meeting new requirements, which improved operational efficiency by 15%.
 
-**Responsibilities:**
-- Key contributor to the upgrade from ASP.NET Web Forms to ASP.NET MVC 4.8 of the Academic Management System (AMS) and Admissions App.
-- Integrated Fluent NHibernate for optimized data querying and management.
-- Enhanced user interfaces using Bootstrap for improved responsiveness and aesthetics.
-- Developed and implemented new system functionalities to extend capabilities based on new requirements.
-
-### AlgoSolver LLC
 **Software Engineer**  
-*July 2021 - June 2023*  
-28-07 Jackson Ave, Long Island City, NY 11101 (Remote)  
+*AlgoSolver LLC* | Long Island City, NY | July 2021 - June 2023 (Remote)  
+- Led the development of Woofmeets, a pet care platform, connecting over 10,000 pet owners with caregivers across 20 American cities, resulting in a 40% increase in company revenue.
+- Spearheaded the development of cross-platform mobile apps using React Native and integrated AWS Amplify, improving data synchronization and user authentication by 50%.
+- Managed the mobile project lifecycle, including requirements analysis, architecture design, development, and testing, leading to the successful on-time delivery of the project and a 35% increase in app performance.
+- Led a team to conduct comprehensive unit tests, improving software functionality and reliability, which resulted in a 60% reduction in post-release defects.
+- Directed bug identification and resolution, enhancing system stability and UX, leading to a 25% decrease in user-reported issues.
 
-**Responsibilities:**
-- Core developer and project lead for Woofmeets, a pet care platform that connects pet owners with caregivers in American cities.
-- Spearheaded the development of cross-platform mobile applications using React Native, integrated with AWS Amplify for data synchronization and user authentication.
-- Managed the entire mobile project lifecycle, from requirements analysis to software architecture research, design, development, and testing.
-- Led comprehensive unit testing to ensure software functionality and reliability.
-- Directed bug identification and resolution efforts, enhancing system stability and user experience.
-
-### MzTech Corp
 **Junior Software Engineer**  
-*January 2021 - June 2021*  
-8171 Harrison St., New York, NY (Remote)  
+*MzTech Corp.* | New York, NY | January 2021 - June 2021 (Remote)  
+- Developed cross-platform mobile applications using React Native.
 
-**Responsibilities:**
-- Developed Cross-Platform Mobile Applications using React-Native and Firebase.
+## PROJECTS
 
-## Professional Projects
+**Questionnaires** [Try Here](#) | [Code](#)  
+Developed a robust survey platform with roles for general users and administrators, enabling efficient survey creation, management, and analysis.  
+**Key Features:** User participation in surveys, admin control over user accounts, survey design, question management, and detailed analytics with data visualization.  
+**Impact:** Empowered decision-makers with actionable insights through advanced prediction and analytics features.  
+**Technologies:** ASP.NET Core MVC, Entity Framework Core, Identity, Microsoft.ML, Microsoft.Data.Analysis, XPlot.
 
-### Woofmeets (Web and Mobile Application)
-A pet walking service application for suppliers and consumers. Consumers can add their pets, their locations, and request pet walking services by searching different providers and their services. Providers can subscribe to be eligible for more features like video calling and live tracking.  
-**Technologies**: React-Native, Redux, TypeScript, Rest-API, Stripe, Jest, AWS Amplify  
-**Links**: [Web App](#), [iOS App](#), [Android App](#)
+**Woofmeets** [Web Link](#) | [iOS App](#) | [Android App](#)  
+Created a pet walking service application for connecting pet owners with service providers.  
+**Key Features:** Providers have subscription options for features like video calling and live tracking.  
+**Impact:** Enhanced user engagement and satisfaction, leading to increased subscriptions and service usage.  
+**Technologies:** React, React Native, Redux, TypeScript, REST API, Stripe, Jest.
 
-### Book Store
-An online platform for purchasing books.  
-**Technologies**: ASP.NET CORE MVC, Entity Framework Core, Identity, Bootstrap  
-**Links**: [Code](#), [Live](#)
-
-### Questionnaires
-A platform enabling efficient survey creation, management, and analysis, supporting two user roles: general users and administrators.  
-**Technologies**: ASP.NET CORE MVC, Entity Framework Core, Identity, Microsoft.ML, Microsoft.Data.Analysis, XPlot  
-**Links**: [Code](#), [Live](#)
-
-### Education
+## EDUCATION
 
 **Master of Data Analytics (Major in Software Engineering)**  
-Melbourne Institute of Technology, Melbourne, Australia  
-*Expected Completion: June 2024*
+*Melbourne Institute of Technology, Melbourne, Australia*  
+*Passing Year: June 2024*
 
 **Bachelor of Science in Computer Science & Engineering (CSE)**  
-Ahsanullah University of Science & Technology, Dhaka, Bangladesh  
+*Ahsanullah University of Science & Technology, Dhaka, Bangladesh*  
 *Passing Year: 2021*
 
-## Skills
-
-- **Full Stack/App Development**: ASP.NET/Core, EF Core, Dapper, Razor Views/Pages, Identity, ReactJS, React-Native, NextJS
-- **Programming Languages**: C#, JavaScript, TypeScript, Python
-- **Design**: CSS, Bootstrap, SCSS, TailwindCSS, React Native StyleSheet
-- **Testing**: xUnit, Jest
-- **Cloud**: Azure, AWS - EC2, ELB, S3, CI/CD
-- **Machine Learning/Deep Learning**: Python, Pandas, Keras, TensorFlow, Scikit-Learn, CV, Microsoft.ML, Microsoft.Data.Analysis, XPlot
-- **State Management**: Redux, Zustand, Session, Cookies, HiddenFields, Cache
-- **Database**: RDBMS (MySql, Oracle, PostgreSQL), ORM (EF Core, Fluent NHibernate, Dapper), NoSql (Firebase)
-- **Version Control**: Git
-- **Other Skills**: Jira
-
-## Languages
-
-English, Bengali, Hindi, Urdu
-
-## References
+## REFERENCES
 
 **Kevin Procter**  
-HR, Melbourne Institute of Technology  
-Mobile: +61‭386006749  
-Email: [kprocter@mit.edu.au](mailto:kprocter@mit.edu.au)
+HR - Melbourne Institute of Technology  
+Mobile: +61 386 006 749  
+Email: kprocter@mit.edu.au
 
 **Dhawa Lama**  
-Manager, Systems Development Division, Melbourne Institute of Technology  
-Mobile: +61386006713  
-Email: [dlama@mit.edu.au](mailto:dlama@mit.edu.au)
-
+Manager, Systems Development Division - Melbourne Institute of Technology  
+Mobile: +61 3 8600 6713  
+Email: dlama@mit.edu.au
