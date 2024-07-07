@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Tanvir Islam
-**Melbourne, Australia** | mdtanvirislams@gmail.com | +61 416 615 147 | [LinkedIn - tanvir917](https://www.linkedin.com/in/tanvir917) | [GitHub](https://github.com/tanvir917)
+**Melbourne, Australia** | mdtanvirislams@gmail.com | +61 416 615 147 | [LinkedIn - tanvir917](https://www.linkedin.com/in/tanvir917)
 
 ## OBJECTIVE
 Results-driven software engineer with extensive experience in both onsite and remote roles, specializing in developing scalable web applications and APIs. Demonstrated success in delivering high-impact projects using React, ASP.NET Core, and AWS. Passionate about leveraging adaptability, enthusiasm, and advanced problem-solving skills to drive innovation and growth in a tech-forward, collaborative environment.
