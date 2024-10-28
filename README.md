@@ -31,8 +31,8 @@ Results-driven software engineer with extensive experience in both onsite and re
 
 ## EXPERIENCE
 
-**Assistant Programmer (Trainee)**  
-*Melbourne Institute of Technology* | Melbourne, VIC | July 2023 - Present (Onsite)  
+**Assistant Programmer**  
+*Melbourne Institute of Technology* | Melbourne, VIC | July 2023 - Oct 2024 (Onsite)  
 - Key contributor to upgrading the Academic Management System (AMS) and Admissions App from ASP.NET Web Forms to ASP.NET MVC using SOLID principles and Multi-Tier Architecture, enhancing system stability and performance, resulting in a 30% increase in user satisfaction.
 - Implemented Fluent NHibernate, optimizing data querying and management, reduced database access time by 20%.
 - Revamped user interfaces, improving responsiveness and  implementation of stored procedures.
