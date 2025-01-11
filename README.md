@@ -1,19 +1,6 @@
 ### About me 👋
 
-<!--
-**tanvir917/tanvir917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Tanvir Islam
 **Melbourne, Australia** | mdtanvirislams@gmail.com | +61 416 615 147 | [LinkedIn - tanvir917](https://www.linkedin.com/in/tanvir917)
 
@@ -22,33 +9,44 @@ Results-driven software engineer with extensive experience in both onsite and re
 
 ## SKILLS
 
-**Programming Languages:** C, C#, Javascript, TypeScript, Python  
-**Full Stack Development:** ASP.NET, ASP.NET Core, API, Razor, React, React-Native  
-**Design:** CSS, Bootstrap, TailwindCSS  
-**Testing:** xUnit, Jest  
-**Cloud:** Azure, AWS - EC2, ELB, S3, CI/CD  
-**Database:** RDBMS (MySQL, Oracle, PostgreSQL), ORM (Entity Framework Core, Fluent NHibernate, Dapper)
+- **Programming Languages:** C#, JavaScript, TypeScript, Python, HTML, JQuery  
+- **Design & Styling:** CSS, Bootstrap, SaaS  
+- **Full Stack Development:** ASP.NET MVC, ASP.NET Core, Web API, ReactJS, React-Native, Expo, Angular  
+- **Testing Frameworks:** xUnit, nUnit, Jest  
+- **Cloud Platforms:** AWS, Azure, Azure DevOps, CI/CD pipelines  
+- **Other Skills:** Confluence, Jira, Git Version Control, Docker, GitHub Actions, Agile Project Delivery
 
 ## EXPERIENCE
 
-**Assistant Programmer**  
-*Melbourne Institute of Technology* | Melbourne, VIC | July 2023 - Oct 2024 (Onsite)  
-- Key contributor to upgrading the Academic Management System (AMS) and Admissions App from ASP.NET Web Forms to ASP.NET MVC using SOLID principles and Multi-Tier Architecture, enhancing system stability and performance, resulting in a 30% increase in user satisfaction.
-- Implemented Fluent NHibernate, optimizing data querying and management, reduced database access time by 20%.
-- Revamped user interfaces, improving responsiveness and  implementation of stored procedures.
-- Developed and implemented 10+ new system functionalities, enhancing the AMS's capabilities and meeting new requirements, which improved operational efficiency by 15%.
+#### Assistant Programmer  
+**Melbourne Institute of Technology**  
+Melbourne, VIC  
+*July 2023 - Oct 2024 (Onsite)*  
 
-**Software Engineer**  
-*AlgoSolver LLC* | Long Island City, NY | July 2021 - June 2023 (Remote)  
-- Spearheaded the development of Woofmeets, a pet care platform, utilizing Agile to connect over 10,000 pet owners with caregivers across American cities, resulting in a 40% increase in company revenue.
-- Directed the development of cross-platform mobile apps using React Native, integrating AWS Amplify for improved data synchronization and user authentication, enhancing these processes by 50%.
-- Orchestrated the mobile project lifecycle, from requirements analysis and architecture design to development and testing, ensuring the on-time delivery of the project and boosting app performance by 35%.
-- Supervised a team to conduct comprehensive unit tests, significantly improving software functionality and reliability, which resulted in a 60% reduction in post-release defects.
-- Directed bug identification and resolution, enhancing system stability and ux, leading to a 25% decrease in user-reported issues.
+- Key contributor to upgrading the Academic Management System (AMS) and Admissions App, enhancing system stability and performance, resulting in a 30% increase in user satisfaction.
+- Conducted system analysis, identified bottlenecks, and proposed solutions, optimising database access and boosting performance.
+- Participated in cross-functional teams to ensure AMS upgrades met requirements and used SOLID principles to integrate features, enhancing project alignment using Agile Methodologies.
+- Revamped interfaces and developed new features, enhancing AMS efficiency and capabilities.
+- **Tools/Technologies:** C#, ASP.NET, WebAPI, Microservices, Fluent NHibernate, Entity Framework Core, Bootstrap, Blazor, Razor, CSS, Azure, Azure DevOps, MSSQL, Stored Procedures, Git, HTML, JQuery
 
-**Junior Software Engineer**  
-*MzTech Corp.* | New York, NY | January 2021 - June 2021 (Remote)  
-- Developed cross-platform mobile applications using React Native.
+#### Software Engineer  
+**AlgoSolver LLC**  
+Long Island City, NY  
+*July 2021 - June 2023 (Remote)*  
+
+- Spearheaded Woofmeets, a pet care platform connecting thousands of pet owners and caregivers, boosting company revenue.
+- Pioneered cross-platform mobile app development to enhance data synchronization and user authentication processes, increasing user retention by 15%.
+- Managed mobile project lifecycle from functional requirements analysis to unit testing, ensuring timely delivery and improving app performance by 30%.
+- Guided team in conducting comprehensive unit tests, enhancing software functionality and reliability, resulting in a 40% reduction in post-release defects.
+- **Tools/Technologies:** JavaScript, TypeScript, ReactJS, React-Native, Redux, MobX, React-Router, TailwindCSS, AWS, DevOps, CI/CD pipelines, Jira, Jest, Git, HTML
+
+#### Junior Software Engineer  
+**MzTech Corp.**  
+Harrison St., New York  
+*January 2021 - June 2021 (Remote)*  
+
+- Developed and launched a mobile app for instructors to upload courses and users to purchase, access, and communicate with instructors via in-app chat.
+
 
 ## PROJECTS
 
@@ -69,6 +67,11 @@ Created a pet walking service application for connecting pet owners with service
 **Impact:** Enhanced user engagement and satisfaction, leading to increased subscriptions and service usage.  
 **Technologies:** React, React Native, Redux, TypeScript, REST API, Stripe, Jest.
 
+#### Social Bond  
+[Code](#)  
+- Developed a social networking application that allows users to manage their profiles, follow other users, create and manage posts, and interact with content through likes and comments, fostering engagement and community interaction.  
+- **Technologies:** ASP.NET WebAPI, Entity Framework Core, React, React-Router, MobX, Identity, Bootstrap
+
 ## EDUCATION
 
 **Master of Data Analytics (Major in Software Engineering)**  
@@ -79,14 +82,3 @@ Created a pet walking service application for connecting pet owners with service
 *Ahsanullah University of Science & Technology, Dhaka, Bangladesh*  
 *Passing Year: 2021*
 
-## REFERENCES
-
-**Kevin Procter**  
-HR - Melbourne Institute of Technology  
-Mobile: +61 386 006 749  
-Email: kprocter@mit.edu.au
-
-**Dhawa Lama**  
-Manager, Systems Development Division - Melbourne Institute of Technology  
-Mobile: +61 3 8600 6713  
-Email: dlama@mit.edu.au
