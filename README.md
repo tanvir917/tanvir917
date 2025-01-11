@@ -57,14 +57,14 @@ Harrison St., New York
 - **Technologies:** ASP.NET Core MVC, Entity Framework Core, Identity, Microsoft.ML, Microsoft.Data.Analysis, XPlot.
 
 **Book Store**  [Try Here](https://bookproduct.azurewebsites.net/) | [Code](https://github.com/tanvir917/BulkyWeb)  
-Developed an E-commerce application using ASP.NET Core and Entity Framework Core, enabling administrators to efficiently manage company stakeholders and users. Implemented functionalities allowing companies to add or modify products, while providing a seamless shopping experience for users.
-Technologies: ASP.NET Core, Entity Framework Core, Identity, Bootstrap
+- Developed an E-commerce application using ASP.NET Core and Entity Framework Core, enabling administrators to efficiently manage company stakeholders and users. Implemented functionalities allowing companies to add or modify products, while providing a seamless shopping experience for users.
+- Technologies: ASP.NET Core, Entity Framework Core, Identity, Bootstrap
 
 **Woofmeets** [Try Here](https://apps.apple.com/au/app/woofmeets/id6443478865)
-Created a pet walking service application for connecting pet owners with service providers.  
-**Key Features:** Providers have subscription options for features like video calling and live tracking.  
-**Impact:** Enhanced user engagement and satisfaction, leading to increased subscriptions and service usage.  
-**Technologies:** React, React Native, Redux, TypeScript, REST API, Stripe, Jest.
+- Created a pet walking service application for connecting pet owners with service providers.  
+- **Key Features:** Providers have subscription options for features like video calling and live tracking.  
+- **Impact:** Enhanced user engagement and satisfaction, leading to increased subscriptions and service usage.  
+- **Technologies:** React, React Native, Redux, TypeScript, REST API, Stripe, Jest.
 
 **Social Bond**  [Code](https://github.com/tanvir917/reactivities)  
 - Developed a social networking application that allows users to manage their profiles, follow other users, create and manage posts, and interact with content through likes and comments, fostering engagement and community interaction.  
