@@ -60,15 +60,13 @@ Developed a robust survey platform with roles for general users and administrato
 Developed an E-commerce application using ASP.NET Core and Entity Framework Core, enabling administrators to efficiently manage company stakeholders and users. Implemented functionalities allowing companies to add or modify products, while providing a seamless shopping experience for users.
 Technologies: ASP.NET Core, Entity Framework Core, Identity, Bootstrap
 
-
 **Woofmeets** [Try Here](https://apps.apple.com/au/app/woofmeets/id6443478865)
 Created a pet walking service application for connecting pet owners with service providers.  
 **Key Features:** Providers have subscription options for features like video calling and live tracking.  
 **Impact:** Enhanced user engagement and satisfaction, leading to increased subscriptions and service usage.  
 **Technologies:** React, React Native, Redux, TypeScript, REST API, Stripe, Jest.
 
-#### Social Bond  
-[Code](#)  
+**Social Bond**  [Code](https://github.com/tanvir917/reactivities)  
 - Developed a social networking application that allows users to manage their profiles, follow other users, create and manage posts, and interact with content through likes and comments, fostering engagement and community interaction.  
 - **Technologies:** ASP.NET WebAPI, Entity Framework Core, React, React-Router, MobX, Identity, Bootstrap
 
