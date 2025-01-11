@@ -51,10 +51,10 @@ Harrison St., New York
 ## PROJECTS
 
 **Questionnaires** [Try Here](https://questionar.azurewebsites.net/) | [Code](https://github.com/tanvir917/capstone)  
-Developed a robust survey platform with roles for general users and administrators, enabling efficient survey creation, management, and analysis.  
-**Key Features:** User participation in surveys, admin control over user accounts, survey design, question management, and detailed analytics with data visualization.  
-**Impact:** Empowered decision-makers with actionable insights through advanced prediction and analytics features.  
-**Technologies:** ASP.NET Core MVC, Entity Framework Core, Identity, Microsoft.ML, Microsoft.Data.Analysis, XPlot.
+- Developed a robust survey platform with roles for general users and administrators, enabling efficient survey creation, management, and analysis.  
+- **Key Features:** User participation in surveys, admin control over user accounts, survey design, question management, and detailed analytics with data visualization.  
+- **Impact:** Empowered decision-makers with actionable insights through advanced prediction and analytics features.  
+- **Technologies:** ASP.NET Core MVC, Entity Framework Core, Identity, Microsoft.ML, Microsoft.Data.Analysis, XPlot.
 
 **Book Store**  [Try Here](https://bookproduct.azurewebsites.net/) | [Code](https://github.com/tanvir917/BulkyWeb)  
 Developed an E-commerce application using ASP.NET Core and Entity Framework Core, enabling administrators to efficiently manage company stakeholders and users. Implemented functionalities allowing companies to add or modify products, while providing a seamless shopping experience for users.
