@@ -28,7 +28,7 @@ Passionate about **clean architecture, microservices, and DevOps automation**, I
 
 ### 🚀 Developer Programmer | **Felice Care** | Melton, VIC *(Jan 2025 – Present, Remote Contract)*  
 - Built and deployed [**felicecare.com.au**](https://felicecare.com.au) with Next.js & ASP.NET Web API, ensuring SEO-friendly and responsive design.  
-- Developing a full **Care Management System** [**admin portal**](https://felicecare.com.au) with **React.js, Redux, ASP.NET Web API, EF Core, Azure SQL, Azure Container Apps, Azure Blob Storage**.  
+- Developing a full **Care Management System** [**admin portal**](https://admin.felicecare.com.au) with **React.js, Redux, ASP.NET Web API, EF Core, Azure SQL, Azure Container Apps, Azure Blob Storage**.  
 - Implemented **Dockerized microservices**, **RabbitMQ messaging**, and **CI/CD pipelines with GitHub Actions** for scalable deployments.  
 
 ---
