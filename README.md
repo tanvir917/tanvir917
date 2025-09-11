@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me  
 I am a results-driven software engineer with experience in **full-stack development, cloud-native solutions, and AI/ML integration**. I build **scalable web applications, APIs, and AI-powered platforms** using modern technologies.  
 
-I’m passionate about **clean architecture, microservices, DevOps automation, and AI/ML solutions** and enjoy working on challenging problems in collaborative environments.  
+I’m passionate about **clean architecture, microservices, DevOps automation, and AI/ML solutions**, and enjoy working on challenging problems in collaborative environments.  
 
 ---
 
@@ -56,21 +56,26 @@ I’m passionate about **clean architecture, microservices, DevOps automation, a
 ## 📂 Projects  
 
 🏥 **Felice Care Management System** | [Try Here](https://admin.felicecare.com.au)  
-*Tech:* ASP.NET WebAPI, EF Core, Docker, Azure SQL, RabbitMQ, Microservices, ML.NET  
+Comprehensive care management system with microservices and Azure cloud integration.  
+*Tech:* ASP.NET WebAPI, EF Core, Azure SQL, Docker, RabbitMQ, Microservices  
 
-🏥 **Felice Care** | [Try Here](https://felicecare.com.au)  
+🏥 **Felice Care** | [Try Here](https://felicecare.com.au)    
 *Tech:* NextJS, ASP.NET WebAPI, EF Core, Azure SQL  
 
-📊 **Questionnaires Platform** | [Try Here](https://questionar.azurewebsites.net/) | [Code](https://github.com/tanvir917/capstone)  
-*Tech:* ASP.NET Core MVC, EF Core, ML.NET, Pandas  
+📊 **[Questionnaires](https://questionar.azurewebsites.net/)** | [Code](https://github.com/tanvir917/capstone)  
+Survey platform with role-based access, analytics, and machine learning insights.  
+*Tech:* ASP.NET Core MVC, EF Core, Identity, ML.NET, Pandas  
 
 🛒 **Book Store** | [Try Here](https://bookproduct.azurewebsites.net/) | [Code](https://github.com/tanvir917/BulkyWeb)  
+E-commerce application with product management and user shopping features.  
 *Tech:* ASP.NET Core, EF Core, Identity, Bootstrap  
 
 🐾 **Woofmeets** | [App Store](https://apps.apple.com/au/app/woofmeets/id6443478865)  
+Pet walking & care platform with subscription tiers, video calling, and live tracking.  
 *Tech:* React, React Native, Redux, TypeScript, Stripe  
 
 👥 **Social Bond** | [Code](https://github.com/tanvir917/reactivities)  
+Social networking app with user profiles, posts, likes, and comments.  
 *Tech:* ASP.NET WebAPI, EF Core, React, MobX  
 
 ---
