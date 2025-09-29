@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tanvir Islam  
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tanvir-sigma.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir917) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanvir917) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtanvirislams@gmail.com) [![Phone](https://img.shields.io/badge/Phone-%2B61%20416%20615%20147-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+61416615147)  
 
 🚀 **Full Stack Developer | AI/ML Enthusiast** | 🌏 Melbourne, Australia (Willing to Relocate/Hybrid)  
