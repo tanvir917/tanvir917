@@ -37,7 +37,7 @@ I’m passionate about **clean architecture, microservices, DevOps automation, a
 
 ## 💼 Work Experience  
 
-### 🚀 Developer Programmer | **Felice Care** | Melton, VIC *(Jan 2025 – Present, Remote Contract)*  
+### 🚀 Systems Developer | **Felice Care** | Melton, VIC *(Jan 2025 – Present, Remote Contract)*  
 - **Developed and deployed** [**felicecare.com.au**](https://felicecare.com.au) using **Next.js & ASP.NET Web API**, delivering a fully responsive and SEO-optimized platform.  
 - **Building Care Management System** [**admin portal**](https://admin.felicecare.com.au) with **React.js, Redux, ASP.NET Web API, Entity Framework, Azure SQL, Azure Container Apps, Azure Blob Storage**, following **Clean Architecture** and **Microservices** principles.  
 - **Implemented containerization & CI/CD** with **Docker & GitHub Actions**, streamlining deployments and ensuring reliability.  
